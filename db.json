@@ -28,5 +28,30 @@
     { "id": 10, "name": "Clementina DuBuque", "age": 37 },
     { "id": 11, "name": "Kurtis Bauch", "age": 24 },
     { "id": 12, "name": "Ervin Schulist", "age": 57 }
+  ],
+  "courses": [
+    { 
+      "id": 0, 
+      "featured": [
+        { "name": "Personal Trainer", "placeholderURL": "https://picsum.photos/640/320" },
+        { "name": "Quick Start", "placeholderURL": "https://picsum.photos/640/320" },
+        { "name": "Easy Win", "placeholderURL": "https://picsum.photos/640/320" },
+        { "name": "On Board", "placeholderURL": "https://picsum.photos/640/320" },
+        { "name": "Planka Time", "placeholderURL": "https://picsum.photos/640/320" }
+      ],
+      "categories": [
+        {
+          "title": "Beginner", 
+          "courses": [
+            { "name": "Intro", "placeholderURL": "https://picsum.photos/200" },
+            { "name": "Quick Start", "placeholderURL": "https://picsum.photos/200" },
+            { "name": "First Steps", "placeholderURL": "https://picsum.photos/200" },
+            { "name": "Training", "placeholderURL": "https://picsum.photos/200" },
+            { "name": "Easy Soup", "placeholderURL": "https://picsum.photos/200" },
+            { "name": "Planka Time", "placeholderURL": "https://picsum.photos/200" }
+          ] 
+        }
+      ]
+    }
   ]
 }
