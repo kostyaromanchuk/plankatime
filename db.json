@@ -50,6 +50,25 @@
             { "name": "Easy Soup", "placeholderURL": "https://picsum.photos/200" },
             { "name": "Planka Time", "placeholderURL": "https://picsum.photos/200" }
           ] 
+        },
+        {
+          "title": "Average", 
+          "courses": [
+            { "name": "More, more and more", "placeholderURL": "https://picsum.photos/200" },
+            { "name": "In secret", "placeholderURL": "https://picsum.photos/200" },
+            { "name": "Second Steps", "placeholderURL": "https://picsum.photos/200" },
+            { "name": "Higher", "placeholderURL": "https://picsum.photos/200" },
+            { "name": "Tss!", "placeholderURL": "https://picsum.photos/200" }
+          ] 
+        },
+        {
+          "title": "Master", 
+          "courses": [
+            { "name": "Exemplar", "placeholderURL": "https://picsum.photos/200" },
+            { "name": "As Instructor", "placeholderURL": "https://picsum.photos/200" },
+            { "name": "Relax Time", "placeholderURL": "https://picsum.photos/200" },
+            { "name": "The Champion", "placeholderURL": "https://picsum.photos/200" }
+          ] 
         }
       ]
     }
