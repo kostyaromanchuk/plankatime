@@ -43,31 +43,31 @@
         {
           "title": "Beginner", 
           "courses": [
-            { "name": "Intro", "placeholderURL": "https://picsum.photos/200" },
-            { "name": "Quick Start", "placeholderURL": "https://picsum.photos/200" },
-            { "name": "First Steps", "placeholderURL": "https://picsum.photos/200" },
-            { "name": "Training", "placeholderURL": "https://picsum.photos/200" },
-            { "name": "Easy Soup", "placeholderURL": "https://picsum.photos/200" },
-            { "name": "Planka Time", "placeholderURL": "https://picsum.photos/200" }
+            { "name": "Intro", "placeholderURL": "https://i.picsum.photos/id/325/200/200.jpg" },
+            { "name": "Quick Start", "placeholderURL": "https://i.picsum.photos/id/51/200/200.jpg" },
+            { "name": "First Steps", "placeholderURL": "https://i.picsum.photos/id/17/200/200.jpg" },
+            { "name": "Training", "placeholderURL": "https://i.picsum.photos/id/371/200/200.jpg" },
+            { "name": "Easy Soup", "placeholderURL": "https://i.picsum.photos/id/30/200/200.jpg" },
+            { "name": "Planka Time", "placeholderURL": "https://i.picsum.photos/id/87/200/200.jpg" }
           ] 
         },
         {
           "title": "Average", 
           "courses": [
-            { "name": "More, more and more", "placeholderURL": "https://picsum.photos/200" },
-            { "name": "In secret", "placeholderURL": "https://picsum.photos/200" },
-            { "name": "Second Steps", "placeholderURL": "https://picsum.photos/200" },
-            { "name": "Higher", "placeholderURL": "https://picsum.photos/200" },
-            { "name": "Tss!", "placeholderURL": "https://picsum.photos/200" }
+            { "name": "More, more and more", "placeholderURL": "https://i.picsum.photos/id/837/200/200.jpg" },
+            { "name": "In secret", "placeholderURL": "https://i.picsum.photos/id/545/200/200.jpg" },
+            { "name": "Second Steps", "placeholderURL": "https://i.picsum.photos/id/16/200/200.jpg" },
+            { "name": "Higher", "placeholderURL": "https://i.picsum.photos/id/542/200/200.jpg" },
+            { "name": "Tss!", "placeholderURL": "https://i.picsum.photos/id/165/200/200.jpg" }
           ] 
         },
         {
           "title": "Master", 
           "courses": [
-            { "name": "Exemplar", "placeholderURL": "https://picsum.photos/200" },
-            { "name": "As Instructor", "placeholderURL": "https://picsum.photos/200" },
-            { "name": "Relax Time", "placeholderURL": "https://picsum.photos/200" },
-            { "name": "The Champion", "placeholderURL": "https://picsum.photos/200" }
+            { "name": "Exemplar", "placeholderURL": "https://i.picsum.photos/id/14/200/200.jpg" },
+            { "name": "As Instructor", "placeholderURL": "https://i.picsum.photos/id/125/200/200.jpg" },
+            { "name": "Relax Time", "placeholderURL": "https://i.picsum.photos/id/298/200/200.jpg" },
+            { "name": "The Champion", "placeholderURL": "https://i.picsum.photos/id/308/200/200.jpg" }
           ] 
         }
       ]
