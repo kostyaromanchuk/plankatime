@@ -69,6 +69,17 @@
             { "name": "Relax Time", "placeholderURL": "https://i.picsum.photos/id/298/200/200.jpg" },
             { "name": "The Champion", "placeholderURL": "https://i.picsum.photos/id/308/200/200.jpg" }
           ] 
+        },
+        {
+          "title": "Repeat", 
+          "courses": [
+            { "name": "Intro", "placeholderURL": "https://i.picsum.photos/id/222/200/200.jpg" },
+            { "name": "Quick Start", "placeholderURL": "https://i.picsum.photos/id/111/200/200.jpg" },
+            { "name": "First Steps", "placeholderURL": "https://i.picsum.photos/id/1/200/200.jpg" },
+            { "name": "Training", "placeholderURL": "https://i.picsum.photos/id/77/200/200.jpg" },
+            { "name": "Easy Soup", "placeholderURL": "https://i.picsum.photos/id/33/200/200.jpg" },
+            { "name": "Planka Time", "placeholderURL": "https://i.picsum.photos/id/66/200/200.jpg" }
+          ] 
         }
       ]
     }
